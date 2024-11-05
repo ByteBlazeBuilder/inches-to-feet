@@ -1,7 +1,5 @@
 # inches-to-feet
-Here's a draft for your README file to make it informative and engaging:
 
----
 
 # Inches and Feet Converter
 
